@@ -1,1 +1,1 @@
-# domain-modelling
+# domain-modeling
